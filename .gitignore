@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs
+/Stream/.vs/Stream/v16
+/Stream/bin/x64
+/Stream/obj
+/Stream/Release
+/Stream/x64
